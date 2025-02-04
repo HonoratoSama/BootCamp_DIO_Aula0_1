@@ -1,4 +1,4 @@
-#Criado apenas para teste de comandos Git
+#Branch criada apenas para teste de comandos Git
 ----
 ##Tudo ok, seguindo os passos informados pelo próprio Github
 ----
